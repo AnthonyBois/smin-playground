@@ -1,0 +1,25 @@
+{
+  "name": "smin-playground",
+  "version": "1.0.0",
+  "description": "Pour les étudiants SMIN",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "nvm": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyBois/smin-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyBois/smin-playground/issues"
+  },
+  "homepage": "https://github.com/AnthonyBois/smin-playground#readme"
+}
